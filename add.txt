@@ -1,4 +1,4 @@
-/*Addition*/
+//Addition
 
 #include<stdio.h>
 main()

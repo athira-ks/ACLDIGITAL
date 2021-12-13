@@ -1,3 +1,5 @@
+/*Multiplication*/
+
 #include<stdio.h>
 main()
 {
